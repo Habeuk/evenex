@@ -1,5 +1,5 @@
 {
-    "name": "justinonomo/evenex",
+    "name": "habeuk/evenex",
     "description": "Provide evenex template integration",
     "type": "drupal-custom-module",
     "require": {
