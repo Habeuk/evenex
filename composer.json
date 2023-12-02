@@ -1,16 +1,16 @@
 {
-    "name": "habeuk/evenex",
-    "description": "Provide evenex template integration",
-    "type": "drupal-custom-module",
-    "require": {
-        "habeuk/formatage_models": "dev-3x | ^3.1"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "justin",
-            "email": "justinonomo@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev"
+  "name": "habeuk/evenex",
+  "description": "Provide evenex template integration",
+  "type": "drupal-custom-module",
+  "require": {
+    "habeuk/formatage_models": "dev-3x | ^3.1|^4.0|dev-4x"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "justin",
+      "email": "justinonomo@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
 }
